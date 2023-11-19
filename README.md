@@ -1,5 +1,3 @@
-# electricity_demand_estimation
-
 Business Requirement:
 A prominent electricity distribution company is seeking to gain insights into the electricity demand over the upcoming 1-2 years. This information is crucial for effectively managing electricity production and vendor relationships. Obtaining precise demand estimates is a critical step in ensuring that electricity procurement and production align seamlessly with market requirements. 
 
